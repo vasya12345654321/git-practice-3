@@ -1,2 +1,4 @@
 start
 feature line
+start
+second line
