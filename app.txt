@@ -3,4 +3,8 @@ feature line
 start
 second line
 start
+ HEAD
 CONFLICT B
+
+CONFLICT A
+ feature/conflict
