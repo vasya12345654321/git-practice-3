@@ -2,3 +2,5 @@ start
 feature line
 start
 second line
+start
+CONFLICT B
